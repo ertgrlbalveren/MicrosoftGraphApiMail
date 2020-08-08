@@ -1,0 +1,12 @@
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/MicrosoftGraphApiMail.deps.json
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/MicrosoftGraphApiMail.runtimeconfig.json
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/MicrosoftGraphApiMail.runtimeconfig.dev.json
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/MicrosoftGraphApiMail.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/MicrosoftGraphApiMail.pdb
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.csprojAssemblyReference.cache
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.AssemblyInfoInputs.cache
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.AssemblyInfo.cs
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.csproj.CoreCompileInputs.cache
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.pdb
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.genruntimeconfig.cache
