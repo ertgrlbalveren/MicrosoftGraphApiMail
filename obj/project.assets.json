@@ -6155,7 +6155,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "Microsoft.Extensions.Configuration.UserSecrets >= 3.1.6",
-      "Microsoft.Graph >= *",
+      "Microsoft.Graph >= 3.9.0",
       "Microsoft.Identity.Client >= 4.17.1"
     ]
   },
@@ -6200,7 +6200,7 @@
           },
           "Microsoft.Graph": {
             "target": "Package",
-            "version": "[*, )"
+            "version": "[3.9.0, )"
           },
           "Microsoft.Identity.Client": {
             "target": "Package",

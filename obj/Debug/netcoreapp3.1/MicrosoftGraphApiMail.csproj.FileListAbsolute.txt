@@ -10,3 +10,17 @@
 /Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.dll
 /Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.pdb
 /Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.genruntimeconfig.cache
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.FileExtensions.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.Json.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Configuration.UserSecrets.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileProviders.Physical.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.FileSystemGlobbing.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Primitives.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Graph.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Graph.Core.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Microsoft.Identity.Client.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/ertgrlbalveren/Documents/Developer/Projects/MicrosoftGraphApiMail/obj/Debug/netcoreapp3.1/MicrosoftGraphApiMail.csproj.CopyComplete

@@ -42,7 +42,7 @@
             },
             "Microsoft.Graph": {
               "target": "Package",
-              "version": "[*, )"
+              "version": "[3.9.0, )"
             },
             "Microsoft.Identity.Client": {
               "target": "Package",
