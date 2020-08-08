@@ -1,0 +1,24 @@
+{
+  "name": "microsoftgraphapimail",
+  "version": "1.0.0",
+  "description": ".net core sample console project to read mails from O365 account.",
+  "main": "Program.cs",
+  "scripts": {
+    "test": "dotnet run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertgrlbalveren/MicrosoftGraphApiMail.git"
+  },
+  "keywords": [
+    "GraphApi",
+    "ReadMail",
+    "O365Mail"
+  ],
+  "author": "Ertugrul Balveren",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ertgrlbalveren/MicrosoftGraphApiMail/issues"
+  },
+  "homepage": "https://github.com/ertgrlbalveren/MicrosoftGraphApiMail#readme"
+}
